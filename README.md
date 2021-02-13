@@ -1,14 +1,13 @@
-# COVID19 Classifier Using CNN and SVM
+## **COVID-19** Classifier Using CNN and SVM
 
 ### To-Do
 
 #### C1
 
-> 1) Going through all the papers.
+> 1) Collect, organise and go through research papers.
 > 2) Selecting upto 2-3 base papers.
 > 3) Finalizing a proposed method.
-> 4) Making the **initial** Report.
-> 5) Making the **initial** PPT.
+> 4) Making the **initial Report** alongwith **PPT**.
 
 #### C2
 
