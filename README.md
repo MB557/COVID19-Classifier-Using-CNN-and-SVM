@@ -1,4 +1,4 @@
-# Covid19-Classifier-Using-CNN-and-SVM
+# COVID19 Classifier Using CNN and SVM
 
 ### To-Do
 
