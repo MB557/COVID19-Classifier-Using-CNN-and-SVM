@@ -1,0 +1,16 @@
+imutils==0.5.4
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+numpy==1.19.5
+pandas==1.2.3
+Pillow==7.0.0
+PySimpleGUI==4.38.0
+qtconsole==5.0.3
+QtPy==1.9.0
+scikit-learn==0.24.1
+scipy==1.6.1
+seaborn==0.11.1
+simplejson==3.16.0
+tensorflow==2.4.1
+tk==0.1.0
+tqdm==4.59.0
