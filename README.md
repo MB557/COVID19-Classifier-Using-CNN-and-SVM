@@ -1,4 +1,4 @@
-# COVID-19 Classification on X-ray images using Multimodal CNN's
+## COVID-19 Classification on X-ray images using Multimodal CNN's
 
 ------
 
