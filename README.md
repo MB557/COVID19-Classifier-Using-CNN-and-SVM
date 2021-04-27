@@ -8,7 +8,7 @@ This project was made with the objective of making detection of COVID-19 in pati
 
 ------
 
-### Requirements✔️
+### Requirements ✔️
 
 Before running the project, you will need to install certain modules. To do this, type the following command in terminal:
 
