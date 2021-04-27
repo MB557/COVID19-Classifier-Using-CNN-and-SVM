@@ -2,13 +2,13 @@
 
 ------
 
-### About
+### About❓
 
 This project was made with the objective of making detection of COVID-19 in patients easier and faster. The project was build in Python 3, using the concept of multimodal CNN's. A GUI (Graphical User Interface) was also designed to allow smooth usage. The GUI was designed using the ```PySimpleGUI``` module in Python.
 
 ------
 
-### Requirements
+### Requirements✔️
 
 Before running the project, you will need to install certain modules. To do this, type the following command in terminal:
 
@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 
 ------
 
-### How to Run?
+### How to Run? 💻
 
 Code file: ```covid_main.py```. <br> After successfully installing the requirements, type:
 
@@ -33,7 +33,7 @@ On successful execution, a GUI window pops up. The user is required to choose an
 
 ------
 
-### Snapshots
+### Snapshots 🖼️
 
 Following are the snapshots of the GUI.
 
